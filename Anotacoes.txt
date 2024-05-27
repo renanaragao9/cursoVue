@@ -1,0 +1,2 @@
+Para criar uma estrutura de pastas muito bem organizada utilizamos o comando
+	vue create NOME DO PROJETO
